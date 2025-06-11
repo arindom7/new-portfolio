@@ -104,7 +104,7 @@ const Home = ({ show }: HomeProps) => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ delay: 0.4, duration: 0.5 }}
           >
-            Full Stack Developer
+            Front-end Developer
           </Title>
           <Description
             initial={{ x: -50, opacity: 0 }}
