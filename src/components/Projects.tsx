@@ -109,27 +109,27 @@ const Projects = () => {
   const projects: Project[] = [
     {
       title: "Project One",
-      description: "A full-stack web application built with React and Node.js that helps users manage their tasks efficiently.",
-      image: "/project1.jpg",
-      technologies: ["React", "Node.js", "MongoDB", "Express"],
-      github: "https://github.com/yourusername/project1",
-      live: "https://project1.com"
+      description: "A full-stack web application that helps the farmers in various ways.",
+      image: "/images/project1.jpg",
+      technologies: ["HTML", "CSS", "Javascript"],
+      github: "https://github.com/arindom7/MidBLOOM-new",
+      live: "https://arindom7.github.io/MidBLOOM-new/"
     },
     {
       title: "Project Two",
-      description: "An e-commerce platform with real-time inventory management and payment processing.",
-      image: "/project2.jpg",
-      technologies: ["React", "Redux", "Firebase", "Stripe"],
-      github: "https://github.com/yourusername/project2",
-      live: "https://project2.com"
+      description: "An website that can make your unterstand your medications.",
+      image: "/images/project2.jpg",
+      technologies: ["React", "Steller api", "Groq api", "Firebase"],
+      github: "https://github.com/Rupamjb/Healiofy",
+      live: "https://healiofy.vercel.app/"
     },
     {
       title: "Project Three",
-      description: "A social media dashboard with analytics and content management features.",
-      image: "/project3.jpg",
+      description: "A plateform that helps the HR's for selecting the employees.",
+      image: "/images/project3.jpg",
       technologies: ["React", "TypeScript", "GraphQL", "AWS"],
-      github: "https://github.com/yourusername/project3",
-      live: "https://project3.com"
+      github: "https://github.com/RidDevs/HireWise",
+      live: "https://riddevs.github.io/HireWise/homenew"
     }
   ];
 

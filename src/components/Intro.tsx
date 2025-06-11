@@ -127,7 +127,7 @@ interface IntroProps {
 
 const Intro = ({ showHome }: IntroProps) => {
   const name = "Arindom Mahanta";
-  const subtitle = "Full Stack Developer";
+  const subtitle = "Front End Developer";
   const title = "I'm a passionate developer with expertise in building modern web applications. I love creating beautiful and functional user interfaces while ensuring robust backend solutions.";
 
   const letterVariants = {

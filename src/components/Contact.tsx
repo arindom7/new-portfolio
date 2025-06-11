@@ -180,13 +180,13 @@ const Contact = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.3 }}
         >
-          <SocialLink href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <SocialLink href="https://github.com/arindom7" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </SocialLink>
-          <SocialLink href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+          <SocialLink href="https://linkedin.com/in/arindom-mahanta-948a18326" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </SocialLink>
-          <SocialLink href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <SocialLink href="https://twitter.com/ArindomMahanta7" target="_blank" rel="noopener noreferrer">
             <FaTwitter />
           </SocialLink>
         </SocialLinks>
