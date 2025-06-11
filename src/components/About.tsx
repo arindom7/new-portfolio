@@ -67,13 +67,12 @@ const SkillItem = styled(motion.div)`
 const About = () => {
   const skills = [
     'JavaScript (ES6+)',
-    'TypeScript',
+    'HTML',
     'React',
-    'Node.js',
+    'C++',
     'Python',
     'SQL',
-    'Git',
-    'AWS'
+    'C'
   ];
 
   return (
@@ -95,8 +94,7 @@ const About = () => {
             transition={{ duration: 0.5 }}
           >
             <p>
-              Hello! I'm a passionate full-stack developer with a strong foundation
-              in both front-end and back-end technologies. I enjoy creating
+              Hello! I'm a passionate front-end developer. I enjoy creating
               seamless user experiences and building robust applications that solve
               real-world problems.
             </p>
